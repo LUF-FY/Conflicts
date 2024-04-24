@@ -5,6 +5,7 @@ using UnityEngine;
 public class asdasdasd : MonoBehaviour
 {
     // Start is called before the first frame update
+    // абоба фбоба
     void Start()
     {
         
