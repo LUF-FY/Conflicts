@@ -5,14 +5,8 @@ using UnityEngine;
 public class asdasdasd : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void OnControllerColliderHit(ControllerColliderHit hit)
     {
-        
-    }//sdasdasd
-
-    // Update is called once per frame
-    void Update()
-    {
-        ///asdasdasd
+        Debug.ClearDeveloperConsole(); 
     }
 }
