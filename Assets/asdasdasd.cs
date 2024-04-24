@@ -8,7 +8,10 @@ public class asdasdasd : MonoBehaviour
     // абоба фбоба
     void Start()
     {
-        
+        //ASDasd/
+
+        GetComponent<Camera>().name = "panamera";
+
     }//sdasdasd
 
     // Update is called once per frame
