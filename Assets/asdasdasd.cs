@@ -18,5 +18,6 @@ public class asdasdasd : MonoBehaviour
     void Update()
     {
         ///asdasdasd
+        Debug.ClearDeveloperConsole(); 
     }
 }
