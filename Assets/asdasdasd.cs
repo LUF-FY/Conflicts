@@ -8,7 +8,7 @@ public class asdasdasd : MonoBehaviour
     // абоба фбоба
     void Start()
     {
-        //ASDasd/
+        //ASDasd/asdlkaps;ldma[sdk,['as
 
         GetComponent<Camera>().name = "panamera";
 
